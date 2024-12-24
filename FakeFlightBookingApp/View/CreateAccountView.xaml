@@ -1,0 +1,65 @@
+﻿<Page x:Class="FakeFlightBookingApp.View.CreateAccountView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FakeFlightBookingApp.View"
+      mc:Ignorable="d" 
+      d:DesignHeight ="450"  d:DesignWidth="950"
+      Title="CreateAccountView">
+    
+
+    <Border BorderBrush="White" BorderThickness="1" Background="White">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition  />
+                <RowDefinition   />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label x:Name="createAccount_Label" Background="Transparent" FontSize="24" HorizontalContentAlignment="Center" Content="Create Account"/>
+
+            <Label x:Name="firstName_label" Background="Transparent" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" Content="First Name"/>
+            <TextBox x:Name="firstName_textBox" Background="Transparent" Grid.Row="1" Grid.Column="1" VerticalAlignment="Bottom"/>
+
+            <Label x:Name="lastName_Label" Background="Transparent" Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" Content="Last Name"/>
+            <TextBox x:Name="lastName_TextBox" Background="Transparent" Grid.Row="2" Grid.Column="1" VerticalAlignment="Bottom"/>
+
+            <Label x:Name="userName_Label" Background="Transparent" Grid.Row="3" Grid.Column="1" VerticalAlignment="Top" Content="User Name"/>
+            <TextBox x:Name="userName_TextBox" Background="Transparent" Grid.Row="3" Grid.Column="1" VerticalAlignment="Bottom" />
+
+            <Label x:Name="email_Label" Background="Transparent" Grid.Row="4" Grid.Column="1" VerticalAlignment="Top" Content="E-mail"/>
+            <TextBox x:Name="email_TextBox" Background="Transparent" Grid.Row="4" Grid.Column="1" VerticalAlignment="Bottom" />
+
+            <Label x:Name="phoneNumber_Label" Background="Transparent" Grid.Row="5" Grid.Column="1" VerticalAlignment="Top"  Content="Phone Number"/>
+            <TextBox x:Name="phoneNumber_TextBox" Background="Transparent" Grid.Row="5" Grid.Column="1" VerticalAlignment="Bottom"  />
+
+            <Label x:Name="password_Label" Background="Transparent" Grid.Row="6" Grid.Column="1" VerticalAlignment="Top"  Content="Password"/>
+            <PasswordBox x:Name="password_PasswordBox" Background="Transparent" Grid.Row="6" Grid.Column="1" VerticalAlignment="Bottom"  />
+
+            <Label x:Name="confirmPassword_Label" Background="Transparent" Grid.Row="7" Grid.Column="1" VerticalAlignment="Top" Content="Confirm Password"/>
+            <PasswordBox x:Name="confirmPassword_PasswordBox" Background="Transparent" Grid.Row="7" Grid.Column="1" VerticalAlignment="Bottom"  />
+
+            <Button x:Name="createAccount_Button" Content="Create Account" 
+            HorizontalAlignment="Center" Grid.Row="8" 
+            VerticalAlignment="Center" Grid.Column="1" 
+            Margin="0,0,200,0" FontSize="20" 
+            Click="createAccount_Button_Click"/>
+            <Button x:Name="signIn_Button" Content="I have an account" HorizontalAlignment="Center" Grid.Row="8" VerticalAlignment="Center" Grid.Column="1" Margin="200,0,0,0" FontSize="20"/>
+
+            <Label x:Name="verificationCode_Label" Content="Verification Code"  Grid.Row="9" HorizontalAlignment="Left" VerticalAlignment="Top" Visibility="Collapsed" />
+            <TextBox x:Name="verificationCode_TextBox"  Grid.Row="9" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Visibility="Collapsed"/>
+            <Button x:Name="verifyEmail_Button" Content="Verify Email"  Click="verifyEmail_Button_Click" Grid.Row="9" Width="100" HorizontalAlignment="Right" Visibility="Collapsed"/>
+        </Grid>
+    </Border>
+    
+    
+</Page>

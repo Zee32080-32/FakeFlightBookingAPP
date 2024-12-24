@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "FakeFlightBookingApp.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "..\\FakeFlightBookingAPI\\FakeFlightBookingAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

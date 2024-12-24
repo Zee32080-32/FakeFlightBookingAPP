@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|d:\\zeeshan\\documents\\fakefligthboolingapp_parent\\fakeflightbookingapp\\view\\paymentpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|solutionrelative:view\\paymentpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|d:\\zeeshan\\documents\\fakefligthboolingapp_parent\\fakeflightbookingapp\\model\\flightofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|solutionrelative:model\\flightofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B535FA9-2BDD-4CE2-86C6-CD798EE60E36}|..\\SharedModels\\SharedModels.csproj|d:\\zeeshan\\documents\\fakefligthboolingapp_parent\\sharedmodels\\bookedflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|d:\\zeeshan\\documents\\fakefligthboolingapp_parent\\fakeflightbookingapp\\view\\mainpageview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|solutionrelative:view\\mainpageview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|d:\\zeeshan\\documents\\fakefligthboolingapp_parent\\fakeflightbookingapp\\view\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|solutionrelative:view\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|d:\\zeeshan\\documents\\fakefligthboolingapp_parent\\fakeflightbookingapp\\view\\createaccountview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4227250F-E20C-493B-87AE-EF07DFABC0A5}|FakeFlightBookingApp.csproj|solutionrelative:view\\createaccountview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E59617-A006-46FE-B7C4-7E4E14257E0C}|..\\FakeFlightBookingAPI\\FakeFlightBookingAPI.csproj|d:\\zeeshan\\documents\\fakefligthboolingapp_parent\\fakeflightbookingapi\\controllers\\bookedflightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPageView.xaml.cs",
+              "DocumentMoniker": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\View\\MainPageView.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainPageView.xaml.cs",
+              "ToolTip": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\View\\MainPageView.xaml.cs",
+              "RelativeToolTip": "View\\MainPageView.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowEkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:32:11.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookedFlight.cs",
+              "DocumentMoniker": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\SharedModels\\BookedFlight.cs",
+              "RelativeDocumentMoniker": "..\\SharedModels\\BookedFlight.cs",
+              "ToolTip": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\SharedModels\\BookedFlight.cs",
+              "RelativeToolTip": "..\\SharedModels\\BookedFlight.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA8wBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:38:11.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightOfferDTO.cs",
+              "DocumentMoniker": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\Model\\FlightOfferDTO.cs",
+              "RelativeDocumentMoniker": "Model\\FlightOfferDTO.cs",
+              "ToolTip": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\Model\\FlightOfferDTO.cs",
+              "RelativeToolTip": "Model\\FlightOfferDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:08:15.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentPage.xaml.cs",
+              "DocumentMoniker": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\View\\PaymentPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\PaymentPage.xaml.cs",
+              "ToolTip": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\View\\PaymentPage.xaml.cs",
+              "RelativeToolTip": "View\\PaymentPage.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwJoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:46:13.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAccountView.xaml.cs",
+              "DocumentMoniker": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\View\\CreateAccountView.xaml.cs",
+              "RelativeDocumentMoniker": "View\\CreateAccountView.xaml.cs",
+              "ToolTip": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\View\\CreateAccountView.xaml.cs",
+              "RelativeToolTip": "View\\CreateAccountView.xaml.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:09:41.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\View\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "View\\LoginView.xaml.cs",
+              "ToolTip": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingApp\\View\\LoginView.xaml.cs",
+              "RelativeToolTip": "View\\LoginView.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:09:18.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookedFlightController.cs",
+              "DocumentMoniker": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingAPI\\Controllers\\BookedFlightController.cs",
+              "RelativeDocumentMoniker": "..\\FakeFlightBookingAPI\\Controllers\\BookedFlightController.cs",
+              "ToolTip": "D:\\Zeeshan\\Documents\\FakeFligthBoolingApp_Parent\\FakeFlightBookingAPI\\Controllers\\BookedFlightController.cs",
+              "RelativeToolTip": "..\\FakeFlightBookingAPI\\Controllers\\BookedFlightController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:47:39.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
